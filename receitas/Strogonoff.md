@@ -1,4 +1,4 @@
-<h1>Receita - Strogonoff de Frango</h1>
+# Receita - Strogonoff de Frango
 
 ingrdiente ...
 .
